@@ -1,0 +1,25 @@
+.heroContainer {
+    margin-top: 4rem;
+}
+.aboutme {
+   display: flex; 
+}
+
+.title {
+    flex: 3
+}
+
+.profImage {
+    flex: 1;
+    height: 257px;
+    margin-left: 2rem;
+}
+
+.social-icon-list {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 2rem;
+}
